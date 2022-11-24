@@ -6,6 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event_name == 'pull_request'
+    secrets: inherit
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -14,4 +15,3 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           submodules: true
       - uses: ./tooling/workflows
-        secrets: inherit
