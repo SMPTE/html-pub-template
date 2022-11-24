@@ -14,4 +14,3 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           submodules: true
       - uses: ./tooling/workflows/build.yml
-        secrets: inherit
