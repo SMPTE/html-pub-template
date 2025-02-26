@@ -1,4 +1,4 @@
-# SMPTE _AG-27_ - _HTML-Pub-Template: Base HTML Repo Template with Tooling_
+# SMPTE _AG-27_ - _HTML Pub: Template (Base HTML Repo with Tooling)
 [comment]: # (Template for readme.md starts below this line)
 
 # SMPTE _DOC NUMBER_ - _TITLE_
