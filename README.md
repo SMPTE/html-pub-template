@@ -1,5 +1,5 @@
 # SMPTE _AG-27_ - _HTML Pub: Template (Base HTML Repo with Tooling)
-[comment]: # (Template for readme.md starts below this line)
+[comment]: # (Template for readme.md starts below this line, remove this and above)
 
 # SMPTE _DOC NUMBER_ - _TITLE_
 
@@ -12,7 +12,6 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 [PATENTS.md](./PATENTS.md) for important notices.
 
 All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository_name}/>
-
 
 ## Reporting issues
 
