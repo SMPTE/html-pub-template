@@ -1,5 +1,5 @@
-# SMPTE _AG-27_ - _HTML Pub: Template (Base HTML Repo with Tooling)
-[comment]: # (Template for readme.md starts below this line)
+# SMPTE _AG-27_ - _HTML Pub: Template (Base HTML Repo with Tooling)_
+[comment]: # (Template for readme.md starts below this line: 1) Update the DOC NUMBER and TITLE. 2) Replace "${repository_name}" instances below with repo name. 3) Remove "Project details" if desired, leave remaining sections. 4) Remove this comment and above.)
 
 # SMPTE _DOC NUMBER_ - _TITLE_
 
@@ -12,7 +12,6 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 [PATENTS.md](./PATENTS.md) for important notices.
 
 All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository_name}/>
-
 
 ## Reporting issues
 
