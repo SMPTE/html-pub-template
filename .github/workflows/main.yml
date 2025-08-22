@@ -56,7 +56,7 @@ jobs:
           AWS_S3_KEY_PREFIX: "${{env.REPOSITORY_NAME}}/"
           CANONICAL_LINK_PREFIX: ${{env.CANONICAL_LINK_PREFIX}}
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          OVERRIDE_SUBMODULE_SHA: ""
+          OVERRIDE_SUBMODULE_SHA: "4dcb654a29caa5ad607d906bdf6a9e943de99222"
 
       - name: Build and deploy document (HTML Pub repo)
         uses: ./workflows
