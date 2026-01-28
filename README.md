@@ -16,9 +16,3 @@ All published version(s) of this document can be found at <https://pub.smpte.org
 ## Reporting issues
 
 Issues should be reported at <https://github.com/SMPTE/${repository_name}/issues>.
-
-## Project details
-
-< description from AG-06 >
-
-< and other useful information >
