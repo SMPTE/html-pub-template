@@ -1,7 +1,4 @@
-# SMPTE _AG-27_ - _HTML Pub: Template (Base HTML Repo with Tooling)_
-[comment]: # (Template for readme.md starts below this line: 1) Update the DOC NUMBER and TITLE. 2) Replace "${repository}" instances below with repo name. 3) Remove "Project details" if desired, leave remaining sections. 4) Remove this comment and above.)
-
-# SMPTE _DOC NUMBER_ - _TITLE_
+# SMPTE _${doc_number}_ - _${title}_
 
 _This repository is private and accessible only to SMPTE Standards Community members._
 
