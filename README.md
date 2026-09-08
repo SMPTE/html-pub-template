@@ -29,7 +29,9 @@ important notices.
 Unless specified otherwise, the contents of this repository are licensed as
 indicated at [LICENSE.md](./LICENSE.md).
 
+<!-- REMOVE-IF-AG:START  Delete this block for an AG repo - AGs are not published at pub.smpte.org -->
 All published version(s) of this document can be found at <https://pub.smpte.org/doc/${repository}/>
+<!-- REMOVE-IF-AG:END -->
 
 ## Reporting issues
 
